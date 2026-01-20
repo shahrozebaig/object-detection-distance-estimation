@@ -1,4 +1,4 @@
-# Object Detection and Distance Estimation for Robotics Navigation
+# Object Detection and Distance Estimation
 
 **Author: Shahroze Baig**
 
